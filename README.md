@@ -1,4 +1,5 @@
 # position-charts
+[![CI](https://github.com/Ifrancis2313/position-charts-mirror/actions/workflows/ci.yml/badge.svg)](https://github.com/Ifrancis2313/position-charts-mirror/actions/workflows/ci.yml)
 
 ## What it does
 
